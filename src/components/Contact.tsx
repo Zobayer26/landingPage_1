@@ -3,7 +3,7 @@
 const Contact = () => {
     return (
         <div className=" w-[1212px]  px-[245px] py-[146px] bg-[#FFF2F1] my-[70px] rounded-lg mx-auto">
-            <div className=" flex flex-col items-center">
+            <div className=" flex flex-col items-center gap-4">
                 <div className=" text-center">
                     <h1 className="font-semibold text-[30px] leading-[45px] text-[#1F1F1F]">LET'S STAY IN TOUCH</h1>
                     <p className="font-normal text-[16px] leading-6 text-[#707070]">Get updates on sales specials and more</p>

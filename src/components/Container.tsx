@@ -6,7 +6,7 @@ type childrenType = {
 
 const Container: React.FC<childrenType> = ({ children }) => {
   return (
-    <div className='max-w-[1128px] mx-auto'>{children}</div>
+    <div className='max-w-[1128px] w-full mx-auto'>{children}</div>
   );
 };
 
